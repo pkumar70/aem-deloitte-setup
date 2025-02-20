@@ -30,9 +30,9 @@
         {
           "component": "button",
           "valueType": "string",
-          "name": "button",
-          "label": "asdasd",
-          "value": "haksdhkhaskas"
+          "name": "ctaText",
+          "label": "Button Text",
+          "value": ""
         },
         {
           "component": "text",
