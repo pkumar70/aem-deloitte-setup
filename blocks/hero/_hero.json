@@ -24,7 +24,7 @@
           "component": "reference",
           "valueType": "string",
           "name": "image",
-          "label": "Image",
+          "label": "bcvbcbvcb",
           "multi": false
         },
         {
@@ -32,19 +32,6 @@
           "valueType": "string",
           "name": "imageAlt",
           "label": "Alt",
-          "value": ""
-        },
-        {
-          "component": "text",
-          "valueType": "string",
-          "name": "buttonText",
-          "label": "button Text",
-          "value": ""
-        },
-        {
-          "component": "url",
-          "valueType": "buttonLink",
-          "label": "button link",
           "value": ""
         },
         {
