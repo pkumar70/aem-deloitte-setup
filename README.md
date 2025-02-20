@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--aem-react--pkumar70.aem.page/
-- Live: https://main--aem-react--pkumar70.aem.live/
+- Preview: https://main--aem-deloitte-setup--pkumar70.aem.page/
+- Live: https://main--aem-deloitte-setup--pkumar70.aem.live/
 
 ## Documentation
 
