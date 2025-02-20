@@ -24,7 +24,7 @@
           "component": "reference",
           "valueType": "string",
           "name": "image",
-          "label": "bcvbcbvcb",
+          "label": "asdasd",
           "multi": false
         },
         {
@@ -32,7 +32,7 @@
           "valueType": "string",
           "name": "imageAlt",
           "label": "Alt",
-          "value": ""
+          "value": "shdkahskdash"
         },
         {
           "component": "richtext",
