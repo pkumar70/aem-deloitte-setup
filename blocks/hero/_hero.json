@@ -35,6 +35,13 @@
           "value": ""
         },
         {
+          "component": "button",
+          "valueType": "string",
+          "name": "button",
+          "label": "Get Started",
+          "value": ""
+        },
+        {
           "component": "richtext",
           "name": "text",
           "value": "",
