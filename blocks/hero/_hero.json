@@ -28,6 +28,13 @@
           "multi": false
         },
         {
+          "component": "button",
+          "valueType": "string",
+          "name": "button",
+          "label": "asdasd",
+          "value": "haksdhkhaskas"
+        },
+        {
           "component": "text",
           "valueType": "string",
           "name": "imageAlt",
