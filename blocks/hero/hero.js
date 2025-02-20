@@ -1,9 +1,10 @@
 export default function decorate(block) {
+    if (!block) return;
+  
     const button = document.createElement('a');
-    button.href = '#'; // Set your desired link here
-    button.textContent = 'Click Me'; // Button text
+    button.href = '#';
+    button.textContent = 'Click Me';
     button.classList.add('hero-button');
-
-    // Append the button to the Hero block
+  
     block.appendChild(button);
-}
+  }
