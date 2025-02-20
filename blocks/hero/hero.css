@@ -30,6 +30,23 @@
   height: 100%;
 }
 
+.hero-button {
+  display: inline-block;
+  padding: 12px 24px;
+  background-color: #0073e6; /* Change color as needed */
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+  text-decoration: none;
+  border-radius: 5px;
+  margin-top: 20px;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.hero-button:hover {
+  background-color: #005bb5;
+}
+
 @media (width >= 900px) {
   .hero {
     padding: 40px 32px;
