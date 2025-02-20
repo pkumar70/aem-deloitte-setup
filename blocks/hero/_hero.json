@@ -35,16 +35,16 @@
           "value": ""
         },
         {
-          "component": "button",
-          "valueType": "text",
-          "name": "button",
-          "label": "Get Started",
+          "component": "text",
+          "valueType": "string",
+          "name": "buttonText",
+          "label": "button Text",
           "value": ""
         },
         {
-          "component": "button",
-          "valueType": "url",
-          "label": "Button Link",
+          "component": "url",
+          "valueType": "buttonLink",
+          "label": "button link",
           "value": ""
         },
         {
