@@ -190,5 +190,35 @@
         "valueType": "string"
       }
     ]
+  },
+  {
+    "id": "button",
+    "fields": [
+      {
+        "component": "aem-content",
+        "name": "link",
+        "label": "Link"
+      },
+      {
+        "component": "text",
+        "name": "text",
+        "label": "Button Text"
+      },
+      {
+        "component": "select",
+        "name": "style",
+        "label": "Button Style",
+        "options": [
+          {
+            "name": "Filled",
+            "value": "filled"
+          },
+          {
+            "name": "Outlined",
+            "value": "outlined"
+          }
+        ]
+      }
+    ]
   }
 ]
