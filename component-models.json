@@ -190,7 +190,7 @@
         "valueType": "string"
       },
       {
-        "component": "reference",
+        "component": "aem-content",
         "label": "Button",
         "name": "buttonHero",
         "valueType": "string"
