@@ -16,40 +16,6 @@
       }
     }
   ],
-  "models": [
-    {
-      "id": "hero",
-      "fields": [
-        {
-          "component": "reference",
-          "valueType": "string",
-          "name": "image",
-          "label": "asdasd",
-          "multi": false
-        },
-        {
-          "component": "button",
-          "valueType": "string",
-          "name": "ctaText",
-          "label": "Button Text",
-          "value": ""
-        },
-        {
-          "component": "text",
-          "valueType": "string",
-          "name": "imageAlt",
-          "label": "Alt",
-          "value": ""
-        },
-        {
-          "component": "richtext",
-          "name": "text",
-          "value": "",
-          "label": "Text",
-          "valueType": "string"
-        }
-      ]
-    }
-  ],
+  
   "filters": []
 }
