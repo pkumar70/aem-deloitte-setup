@@ -190,19 +190,46 @@
         "valueType": "string"
       },
       {
+        "component": "aem-content",
+        "name": "buttonLink",
+        "label": "Button Link",
+        "valueType": "string",
+        "description": "Drag and drop a content path for the button link"
+      },
+      {
+        "component": "text",
+        "name": "buttonText",
+        "label": "Button Text",
+        "valueType": "string",
+        "description": "Text to display on the button"
+      },
+      {
+        "component": "text",
+        "name": "buttonTitle",
+        "label": "Button Title",
+        "valueType": "string",
+        "description": "Title attribute for the button (optional)"
+      },
+      {
         "component": "select",
-        "name": "style",
+        "name": "buttonStyle",
         "label": "Button Style",
+        "valueType": "string",
         "options": [
           {
-            "name": "Filled",
-            "value": "filled"
+            "name": "Default",
+            "value": "default"
           },
           {
-            "name": "Outlined",
-            "value": "outlined"
+            "name": "Primary",
+            "value": "primary"
+          },
+          {
+            "name": "Secondary",
+            "value": "secondary"
           }
-        ]
+        ],
+        "description": "Select the style for the button"
       }
     ]
   }
