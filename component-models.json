@@ -172,7 +172,7 @@
         "component": "reference",
         "valueType": "string",
         "name": "image",
-        "label": "xcvxcvxcvxcvxv",
+        "label": "Image",
         "multi": false
       },
       {
