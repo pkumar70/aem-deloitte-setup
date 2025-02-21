@@ -188,6 +188,12 @@
         "value": "",
         "label": "Text",
         "valueType": "string"
+      },
+      {
+        "component": "reference",
+        "label": "Button",
+        "name": "buttonHero",
+        "valueType": "string"
       }
     ]
   }
