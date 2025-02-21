@@ -39,7 +39,7 @@
           "valueType": "string",
           "name": "imageAlt",
           "label": "Alt",
-          "value": "shdkahskdash"
+          "value": ""
         },
         {
           "component": "richtext",
