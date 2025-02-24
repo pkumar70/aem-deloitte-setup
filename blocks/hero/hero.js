@@ -1,3 +1,5 @@
+import { buttonHero } from "../button/button";
+
 export default async function decorate() {
     const header = document.createElement('div');
     header.id = 'header';
@@ -79,7 +81,9 @@ export default async function decorate() {
     // Append nav and content to header
     header.appendChild(nav);
     header.appendChild(content);
+
+    header.appendChild(buttonHero)
   
     // Append header to body
-    document.body.appendChild(header);
+    // document.body.appendChild(header);
   }
