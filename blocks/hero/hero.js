@@ -1,4 +1,4 @@
-import { buttonHero } from "../button/button";
+import { buttonHero } from "../button/button.js";
 
 export default async function decorate(block) {
 
