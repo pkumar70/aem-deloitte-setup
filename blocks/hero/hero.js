@@ -85,5 +85,5 @@ export default async function decorate() {
     header.appendChild(buttonHero)
   
     // Append header to body
-    // document.body.appendChild(header);
+    document.body.appendChild(header);
   }
